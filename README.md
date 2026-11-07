@@ -1,5 +1,5 @@
 # World-Models-Sessions
-Notebooks and Guide to the World Models Session @ ActInf Symposium 2026
+Notebooks and Guide to the World Models Session @ [ActInf Symposium 2026](https://activeinferenceinstitute.github.io/Symposium/)
 
 ## Videos (YouTube)
 [Introduction to World Models](https://youtu.be/RBBMbbJX0cE)
