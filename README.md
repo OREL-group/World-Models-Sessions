@@ -6,4 +6,4 @@ Notebooks and Guide to the World Models Session @ [ActInf Symposium 2026](https:
 
 [Overview of the "World Models in Natural and Artificial Intelligence" special issue in Royal Society A](https://youtu.be/-V1UClkl8yU)
 
-[Making World Models Accessible](---)
+[Making World Models Accessible](https://youtu.be/-rR4fmpGRowhttps://youtu.be/-rR4fmpGRow)
